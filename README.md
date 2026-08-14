@@ -1,4 +1,4 @@
-# Build and Configure L3VON (MPLS L3 VPN)
+# Build and Configure L3VPN (MPLS L3 VPN)
 Using Cisco Modeling Labs to create a MPLS L3 VPN 
 
 # Projective Objective
